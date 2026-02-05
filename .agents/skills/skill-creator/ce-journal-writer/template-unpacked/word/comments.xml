@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:comments xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData" mc:Ignorable="w14 w15 wp14">
+  <w:comment w:id="0" w:author="dell" w:date="2024-05-14T11:31:00Z" w:initials="d">
+    <w:p w14:paraId="0119BBED">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>文后的参考文献要在正文中注明。</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="1" w:author="dell" w:date="2024-05-14T11:32:00Z" w:initials="d">
+    <w:p w14:paraId="2EBC07E4">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>连续引用参考文献。</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="2" w:author="dell" w:date="2024-05-14T11:39:00Z" w:initials="d">
+    <w:p w14:paraId="3C1E3696">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>不连续的参考文献。</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="3" w:author="dell" w:date="2024-05-14T11:40:00Z" w:initials="d">
+    <w:p w14:paraId="5802EC89">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>连续和不连续的参考文献。</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="4" w:author="dell" w:date="2024-05-14T13:11:00Z" w:initials="d">
+    <w:p w14:paraId="4E143C8F">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>表题居中。</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="5" w:author="dell" w:date="2024-05-14T14:16:00Z" w:initials="d">
+    <w:p w14:paraId="4F01A9BE">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>结语是对工作的总结和下一步的展望，切不能写成摘要。</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="6" w:author="dell" w:date="2024-05-15T14:07:00Z" w:initials="d">
+    <w:p w14:paraId="1967D22E">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>参考文献部分严格按照以下格式。尤其注意每一条文献必须加文献类型（如</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>[J]</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>）</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="7" w:author="dell" w:date="2024-05-15T14:08:00Z" w:initials="d">
+    <w:p w14:paraId="1C51FFA7">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>析出文献格式：析出文献主要责任者</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>.析出文献题名[文献类型标志].析出文献其他责任者∥专著主要责任者.专著题名：其他题名信息.版本项.出版地：出版者， 出版年：析出文献的页码[引用日期].获取和访问路径.</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="8" w:author="dell" w:date="2024-05-15T14:10:00Z" w:initials="d">
+    <w:p w14:paraId="4105149D">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>报纸中析出的文献一定要有年-月-日（版）</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="9" w:author="dell" w:date="2024-05-15T14:15:00Z" w:initials="d">
+    <w:p w14:paraId="1F0E16C1">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+        <w:rPr>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>电子析出文献要有发布日期和引用日期</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+  <w:comment w:id="10" w:author="dell" w:date="2024-05-15T14:17:00Z" w:initials="d">
+    <w:p w14:paraId="268CC80F">
+      <w:pPr>
+        <w:pStyle w:val="3"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="eastAsia"/>
+          <w:lang w:eastAsia="zh-CN"/>
+        </w:rPr>
+        <w:t>只要第一作者和通信作者</w:t>
+      </w:r>
+    </w:p>
+  </w:comment>
+</w:comments>
